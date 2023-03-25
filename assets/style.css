@@ -1,0 +1,284 @@
+* {
+    box-sizing: border-box;
+}
+
+/* TABLE TAB */
+
+.dropdown-filter2 {
+    width: 20%;
+    display: flex;
+    justify-content: center;    
+}
+
+.column-filters {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+#table {
+    margin-top: 5px;
+}
+
+/* fix bug with table filtering */
+.dt-table-container__row-1 {
+    min-height: 55px;
+}
+
+.dash-select-cell {
+    padding: 0;
+}
+
+.dropdown-header {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-top: 0;
+    padding: 0.25rem;
+}
+
+.dropdown-form {
+    max-height: 350px;
+    overflow-y: scroll;
+}
+
+.checklist-formgroup2 {
+    margin-bottom: 5px;
+}
+
+/* HEADER FILTER START */
+
+.filter-header {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.dropdown-filter {
+    width: 17%;
+    display: flex;
+    justify-content: center;    
+}
+
+.dropdown-button {
+    width: 95%;
+    height: 30px;
+}
+
+.dropdown-menu {
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 95%;
+}
+
+.select-all-button, .clean-all-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+}
+
+.checklist-formgroup {
+    margin-bottom: 0;
+    max-height: 350px;
+    overflow-y: scroll;
+}
+
+.filter-checklist {
+    font-size: 1.25rem;
+}
+
+.checklist-label {
+    display: flex;
+    align-items: center;
+}
+
+.checklist-input {
+    margin-right: 3px;
+}
+
+.apply-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.previous-next-container {
+    padding: 0;
+}
+
+/* HEADER FILTER END */
+
+/* BUBBLE TAB */
+
+.dropdown-container {
+    margin-bottom: 8px;
+}
+
+.dropdown-bubble {
+    width: 25%;
+    display: flex;
+    justify-content: center;    
+}
+
+.bubble-dropdown-form {
+    margin-bottom: 0;
+    max-height: 350px;
+    overflow-y: scroll;
+}
+
+.bubble-roles-dropdown-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.dash-dropdown {
+    min-width: 80%;
+    height: 100%;
+}
+
+H1, H2, H3, H4, H5, .dropdown_label, .radio_label {
+    text-align: center;
+}
+
+.dropdowns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.dropdown_box {
+    width: 25%;
+    display: flex;
+    align-items: center;
+}
+
+.dropdown_label {
+    margin-right: 8px;
+    font-weight: 700;
+}
+
+#bubble_plot {
+    margin-top: 5px;
+    height: 635px;
+}
+
+
+/* TEST TICKER TAB */
+
+.ticker_input_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 25%;
+    margin-top: 5px;
+}
+
+.ticker-input {
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 85%;
+}
+
+.ticker-input-button {
+    width: 15%;
+}
+
+.ticker-header-container {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.ticker-modal-button {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-right: 10px;
+    border-color: #6c757d;
+}
+
+.ticker-header, .ticker-price, .ticker-price-change {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.ticker-price {
+    font-weight: 600;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ticker-charts-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-graph-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    min-width: 700px;
+    flex-wrap: wrap;
+}
+
+.period-buttons {
+    width: 80%;
+}
+
+.period-button, .fin-mode-button {
+    border-color: white;
+    height: 24px;
+}
+
+.fin-barchart-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 60%;
+    border-color: black;
+}
+
+.fin-barchart {
+    width: 820px;
+}
+
+.ticker-info-container {
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ticker-info-card {
+    color: white;
+    display: flex;
+    width: 24%;
+}
+
+.ticker-info-card-header {
+    padding: 2px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ticker-info-card-p {
+    margin-bottom: 0.2rem;
+    font-size: 1.25rem;
+}
+
+.ticker-info-card-body {
+    padding: 0.5rem 1rem;
+    max-height: 250px;
+    overflow-y: auto;
+}

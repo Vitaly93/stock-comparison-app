@@ -1,0 +1,52 @@
+Field;Group;Source
+Sector;Descriptive;stock_features
+Industry;Descriptive;stock_features
+Country;Descriptive;stock_features
+Market;Descriptive;stock_features
+Currency;Descriptive;stock_features
+Previous Close;Descriptive;stock_info_quote_table
+52 Week Range;Descriptive;stock_info_quote_table
+Earnings Date;Descriptive;stock_info_quote_table
+Ex-Dividend Date;Descriptive;stock_info_quote_table
+Avg. Volume;Descriptive;stock_features
+Volume;Descriptive;stock_features
+1y Target Est;Valuation measures;stock_features
+Enterprise Value;Valuation measures;stock_features
+Enterprise Value/EBITDA;Valuation measures;stock_features
+Enterprise Value/Revenue;Valuation measures;stock_features
+Market Cap;Valuation measures;stock_features
+PE Ratio (TTM) Corrected;Valuation measures;stock_features
+Forward P/E;Valuation measures;stock_features
+PEG Ratio (5 yr expected);Valuation measures;stock_features
+Price/Book (mrq);Valuation measures;stock_features
+Price/Sales (ttm);Valuation measures;stock_features
+30-days Change;Trading information;stock_features
+90-days Change;Trading information;stock_features
+52-Week Change;Trading information;stock_features
+Quote Price/52 Week High;Trading information;stock_features
+Quote Price/52 Week Low;Trading information;stock_features
+Beta (5Y Monthly);Trading information;stock_features
+Payout Ratio;Trading information;stock_features
+Trailing Annual Dividend Yield;Trading information;stock_features
+Forward Annual Dividend Yield;Trading information;stock_features
+Diluted EPS (ttm);Financial highlights;stock_features
+EBITDA;Financial highlights;stock_features
+EPS (TTM);Financial highlights;stock_features
+Gross Profit (ttm);Financial highlights;stock_features
+Net Income Avi to Common (ttm);Financial highlights;stock_features
+Quarterly Earnings Growth (yoy);Financial highlights;stock_features
+Quarterly Revenue Growth (yoy);Financial highlights;stock_features
+Revenue (ttm);Financial highlights;stock_features
+Revenue Per Share (ttm);Financial highlights;stock_features
+Operating Margin (ttm);Financial highlights;stock_features
+Profit Margin;Financial highlights;stock_features
+Return on Assets (ttm);Financial highlights;stock_features
+Return on Equity (ttm);Financial highlights;stock_features
+Book Value Per Share (mrq);Financial highlights;stock_features
+Current Ratio (mrq);Financial highlights;stock_features
+Total Cash (mrq);Financial highlights;stock_features
+Total Cash Per Share (mrq);Financial highlights;stock_features
+Total Debt (mrq);Financial highlights;stock_features
+Total Debt/Equity (mrq);Financial highlights;stock_features
+Levered Free Cash Flow (ttm);Financial highlights;stock_features
+Operating Cash Flow (ttm);Financial highlights;stock_features

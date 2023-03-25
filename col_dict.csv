@@ -1,0 +1,54 @@
+id;column;group;subgroup;default;deletable;type;sign.Positive;group_delimiter;specifier;specifier_full;group_color;group_color_hex
+1;Ticker;Descriptive;Descriptive;TRUE;;;;;;;;#4582EC
+2;Quote Price;Descriptive;Descriptive;TRUE;TRUE;numeric;;;.2f;.2f;;#4582EC
+3;Name;Descriptive;Descriptive;TRUE;TRUE;;;;;;;#4582EC
+4;Sector;Descriptive;Descriptive;TRUE;TRUE;;;;;;;#4582EC
+5;Industry;Descriptive;Descriptive;TRUE;TRUE;;;;;;;#4582EC
+6;Country;Descriptive;Descriptive;TRUE;TRUE;;;;;;;#4582EC
+7;City;Descriptive;Descriptive;;TRUE;;;;;;;#4582EC
+8;Market;Descriptive;Descriptive;;TRUE;;;;;;;#4582EC
+9;Exchange;Descriptive;Descriptive;;TRUE;;;;;;;#4582EC
+10;Currency;Descriptive;Descriptive;TRUE;TRUE;;;;;;;#4582EC
+11;Avg. Volume;Summary;Summary;TRUE;TRUE;numeric;;,;;,;;#FFF
+12;Volume;Summary;Summary;TRUE;TRUE;numeric;;,;;,;;#FFF
+13;1y Target Est;Valuation measures;Valuation measures;TRUE;TRUE;numeric;+;;.2%;+.2%;;#02b875
+14;Enterprise Value;Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;.3s;.3s;;#02b875
+15;Enterprise Value/EBITDA;Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;;;;#02b875
+16;Enterprise Value/Revenue;Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;;;;#02b875
+17;Market Cap;Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;.3s;.3s;;#02b875
+18;PE Ratio (TTM);Valuation measures;Valuation measures;;TRUE;numeric;;;;;;#02b875
+19;PE Ratio (TTM) Corrected;Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;;;;#02b875
+20;Forward P/E;Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;;;;#02b875
+21;PEG Ratio (5 yr expected);Valuation measures;Valuation measures;;TRUE;numeric;;;;;;#02b875
+22;Price/Book (mrq);Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;;;;#02b875
+23;Price/Sales (ttm);Valuation measures;Valuation measures;TRUE;TRUE;numeric;;;;;;#02b875
+24;30-days Change;Trading information;Stock price history;TRUE;TRUE;numeric;+;;.2%;+.2%;;#17a2b8
+25;90-days Change;Trading information;Stock price history;TRUE;TRUE;numeric;+;;.2%;+.2%;;#17a2b8
+26;52-Week Change;Trading information;Stock price history;TRUE;TRUE;numeric;+;;.2%;+.2%;;#17a2b8
+27;Quote Price/52 Week High;Trading information;Stock price history;;TRUE;numeric;+;;.2%;+.2%;;#17a2b8
+28;Quote Price/52 Week Low;Trading information;Stock price history;;TRUE;numeric;+;;.2%;+.2%;;#17a2b8
+29;Beta (5Y Monthly);Trading information;Stock price history;;TRUE;numeric;;;;;;#17a2b8
+30;Payout Ratio;Trading information;Dividends & splits;;TRUE;numeric;;;.2%;.2%;;#17a2b8
+31;Trailing Annual Dividend Yield;Trading information;Dividends & splits;TRUE;TRUE;numeric;;;.2%;.2%;;#17a2b8
+32;Forward Annual Dividend Yield;Trading information;Dividends & splits;TRUE;TRUE;numeric;;;.2%;.2%;;#17a2b8
+33;Diluted EPS (ttm);Financial highlights;Income statement;;TRUE;numeric;;;;;;#f0ad4e
+34;EBITDA;Financial highlights;Income statement;TRUE;TRUE;numeric;;;.3s;.3s;;#f0ad4e
+35;EPS (TTM);Financial highlights;Income statement;TRUE;TRUE;numeric;;;;;;#f0ad4e
+36;Gross Profit (ttm);Financial highlights;Income statement;TRUE;TRUE;numeric;;;.3s;.3s;;#f0ad4e
+37;Net Income Avi to Common (ttm);Financial highlights;Income statement;;TRUE;numeric;;;.3s;.3s;;#f0ad4e
+38;Quarterly Earnings Growth (yoy);Financial highlights;Income statement;TRUE;TRUE;numeric;+;;.2%;+.2%;;#f0ad4e
+39;Quarterly Revenue Growth (yoy);Financial highlights;Income statement;TRUE;TRUE;numeric;+;;.2%;+.2%;;#f0ad4e
+40;Revenue (ttm);Financial highlights;Income statement;TRUE;TRUE;numeric;;;.3s;.3s;;#f0ad4e
+41;Revenue Per Share (ttm);Financial highlights;Income statement;;TRUE;numeric;;;;;;#f0ad4e
+42;Operating Margin (ttm);Financial highlights;Profitability;;TRUE;numeric;;;.2%;.2%;;#f0ad4e
+43;Profit Margin;Financial highlights;Profitability;TRUE;TRUE;numeric;;;.2%;.2%;;#f0ad4e
+44;Return on Assets (ttm);Financial highlights;Management effectiveness;;TRUE;numeric;;;.2%;.2%;;#f0ad4e
+45;Return on Equity (ttm);Financial highlights;Management effectiveness;;TRUE;numeric;;;.2%;.2%;;#f0ad4e
+46;Book Value Per Share (mrq);Financial highlights;Balance sheet;TRUE;TRUE;numeric;;;;;;#f0ad4e
+47;Current Ratio (mrq);Financial highlights;Balance sheet;;TRUE;numeric;;;;;;#f0ad4e
+48;Total Cash (mrq);Financial highlights;Balance sheet;;TRUE;numeric;;;.3s;.3s;;#f0ad4e
+49;Total Cash Per Share (mrq);Financial highlights;Balance sheet;;TRUE;numeric;;;;;;#f0ad4e
+50;Total Debt (mrq);Financial highlights;Balance sheet;;TRUE;numeric;;;.3s;.3s;;#f0ad4e
+51;Total Debt/Equity (mrq);Financial highlights;Balance sheet;TRUE;TRUE;numeric;;;;;;#f0ad4e
+52;Levered Free Cash Flow (ttm);Financial highlights;Cash flow statement;;TRUE;numeric;;;.3s;.3s;;#f0ad4e
+53;Operating Cash Flow (ttm);Financial highlights;Cash flow statement;;TRUE;numeric;;;.3s;.3s;;#f0ad4e
